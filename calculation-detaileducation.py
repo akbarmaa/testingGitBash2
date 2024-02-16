@@ -1,4 +1,5 @@
-#perubahan [pertama1]
+#perubahan [pertama]
+#perubahan [kedua]
 import src.aws_connection as aws
 import os
 from datetime import date, timedelta, datetime
